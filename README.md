@@ -9,8 +9,8 @@ cleaning, analysis and transformation.
 IMDb Dataset of 50K Movie Reviews.
 
 Source:
-https://www.kaggle.com/datasets/lakshmi25npathi/
-imdb-dataset-of-50k-movie-reviews
+[https://www.kaggle.com/datasets/lakshmi25npathi/
+imdb-dataset-of-50k-movie-reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 ## Technologies Used
 - Python
