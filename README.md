@@ -33,4 +33,6 @@ Upload the downloaded IMDb Dataset.csv file
 and execute the cells sequentially.
 
 ## Author
-Your Name
+Rohit R Iyer
+1RV23EC124
+Electronics and Communication Engineering
